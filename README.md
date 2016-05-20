@@ -18,7 +18,7 @@
 		<div>
 			&nbsp;</div>
 		<div>
-			<span style="font-size:16px;">Esse projeto tem por finalidade, criar um servi&ccedil;o via JAVA, para que possa ser consumido em seu retorno as informa&ccedil;&otilde;es de um WebService(WS) que possui a localidade (bairro, cidade, estado, etc), dado um CEP. Esse servi&ccedil;o pode ser consumido em XML e JSON. Ser&aacute; demonstrado como manipular tais informa&ccedil;&otilde;es nos dois tipos de dados. Como monstra a imagem acima no console do eclipse.</span></div>
+			<span style="font-size:16px;">Esse projeto tem por finalidade, criar um servi&ccedil;o via JAVA, para que possa ser consumido em seu retorno as informa&ccedil;&otilde;es de um WebService(WS) que possui a localidade (bairro, cidade, estado, etc), dado um CEP. Esse servi&ccedil;o pode ser consumido em XML e JSON. Ser&aacute; demonstrado como manipular tais informa&ccedil;&otilde;es nos dois tipos de dados. Como mostra a imagem, acima no console do eclipse.</span></div>
 		<div>
 			&nbsp;</div>
 		<div>
