@@ -11,8 +11,7 @@ Esse projeto tem por finalidade, criar um serviço via JAVA, para que possa ser 
   -Eclipse<br>
   -Repositório 
  
-###Tecnologias utilizadas
-			 
+###Tecnologias utilizadas			 
   JAVA EE, XML JSON, MAVEN, JERSEY - API WS
 		 
 ###Como executar?
