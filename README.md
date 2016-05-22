@@ -17,7 +17,8 @@ Esse projeto tem por finalidade, criar um serviço via JAVA, para que possa ser 
 ###Como executar?
 Importar o projeto no eclipse.
 Botão direito do mouse no Project Explore > Import > Maven > Existing Maven Project > caminho do download feito.
-Abrir a classe App.java e executar método main. ###Let's be happy :D			 
+Abrir a classe App.java e executar método main. <br>
+Let's be happy :D			 
 
 			
 
