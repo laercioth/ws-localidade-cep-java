@@ -9,10 +9,10 @@ Esse projeto tem por finalidade, criar um serviço via JAVA, para que possa ser 
 ###Pré-requisito para rodar o projeto			 
   -JDK 7<br>
   -Eclipse<br>
-  -Repositório 
+  -Repositório Maven
  
 ###Tecnologias utilizadas			 
-  JAVA EE, XML JSON, MAVEN, JERSEY - API WS
+  JAVA EE, XML, JSON, MAVEN, JERSEY - API WS
 		 
 ###Como executar?
 Importar o projeto no eclipse.
